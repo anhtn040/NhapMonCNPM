@@ -1,6 +1,5 @@
 # NhapMonCNPM
 <h2> Project Nhập môn CNPM_Xây dụng trang web bán hàng trang sức </h2>
-<ul><li>Sử dụng ngôn ngữ Java</li></ul>
 <h2> Giảng viên</h2>
 <ul><li>Huỳnh Lưu Quốc Linh</li></ul>
 <h2> Sinh viên thực hiệ </h2>
